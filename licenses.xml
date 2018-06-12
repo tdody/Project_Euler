@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Licenses schemaVersion="1.0" dyn_lists="Keys 1">
+   <User></User>
+   <Company></Company>
+   <Keys id="0" dyn_lists="Key"/>
+   <KeyDates dyn_lists="KeyDateItem 0"/>
+   <EncKeys dyn_lists="Key">
+      <Key>K/IFtxVqo76uUED6hZLO6btGqbQlxH3pkiPbaKmub41aOg==</Key>
+      <Key>KOdnpxQVo9mtFA0AzCZfymQaat7V1/aE9DHV0tdiStpQxw==</Key>
+      <Key>Lv4ZtQ9vo9hjgVEUX9VSszjxy6k7WIttll5OA7RFKsCtMA==</Key>
+      <Key>KOBjtWlqo7YxYsqERdsrHkxbUd0nttvZy3LuLPSmyzXwAw==</Key>
+      <Key>dnpxo9mt0zfymaat71a90tditpxw</Key>
+   </EncKeys>
+   <EncKeyDates dyn_lists="EncKeyDateItem 5">
+      <EncKeyDateItem id="0" dyn_lists="">
+         <KeyValue>KOdnpxQVo9mtFA0AzCZfymQaat7V1/aE9DHV0tdiStpQxw==</KeyValue>
+         <KeyDate>2012-09-06 18:10:48</KeyDate>
+         <ProductId>2340-62982-10027</ProductId>
+         <ActivationStatus>-2</ActivationStatus>
+         <ConfirmationDate>2012-10-06 19:32:47</ConfirmationDate>
+         <ConfirmationId></ConfirmationId>
+         <RegistrationStatus>-12345678</RegistrationStatus>
+         <RegistrationDate>1752-01-01 05:00:00</RegistrationDate>
+         <AccountRegistrationStatus>-12345678</AccountRegistrationStatus>
+         <AccountRegistrationDate>1752-01-01 05:00:00</AccountRegistrationDate>
+      </EncKeyDateItem>
+      <EncKeyDateItem id="1" dyn_lists="">
+         <KeyValue>Lv4ZtQ9vo9hjgVEUX9VSszjxy6k7WIttll5OA7RFKsCtMA==</KeyValue>
+         <KeyDate>2012-09-26 17:07:07</KeyDate>
+         <ProductId>2340-63206-46963</ProductId>
+         <ActivationStatus>-2</ActivationStatus>
+         <ConfirmationDate>2012-10-06 19:32:47</ConfirmationDate>
+         <ConfirmationId></ConfirmationId>
+         <RegistrationStatus>-12345678</RegistrationStatus>
+         <RegistrationDate>1752-01-01 05:00:00</RegistrationDate>
+         <AccountRegistrationStatus>-12345678</AccountRegistrationStatus>
+         <AccountRegistrationDate>1752-01-01 05:00:00</AccountRegistrationDate>
+      </EncKeyDateItem>
+      <EncKeyDateItem id="2" dyn_lists="">
+         <KeyValue>KOBjtWlqo7YxYsqERdsrHkxbUd0nttvZy3LuLPSmyzXwAw==</KeyValue>
+         <KeyDate>2012-10-06 19:32:47</KeyDate>
+         <ProductId>2342-38502-16718</ProductId>
+         <ActivationStatus>-2</ActivationStatus>
+         <ConfirmationDate>2012-10-06 19:32:47</ConfirmationDate>
+         <ConfirmationId></ConfirmationId>
+         <RegistrationStatus>-12345678</RegistrationStatus>
+         <RegistrationDate>1752-01-01 05:00:00</RegistrationDate>
+         <AccountRegistrationStatus>-12345678</AccountRegistrationStatus>
+         <AccountRegistrationDate>1752-01-01 05:00:00</AccountRegistrationDate>
+      </EncKeyDateItem>
+      <EncKeyDateItem id="3" dyn_lists="">
+         <KeyValue>LpAQoRwPo8om9WE2yDAKC8lqIf6bUYYp6rwgJfl5YLQ7Bg==</KeyValue>
+         <KeyDate>2012-10-29 20:32:40</KeyDate>
+         <ProductId>2336-38406-02925</ProductId>
+         <ActivationStatus>0</ActivationStatus>
+         <ConfirmationDate>2012-10-29 20:32:40</ConfirmationDate>
+         <ConfirmationId>34643661346433303539353435313739353937613439373734643761353137373464353436383661346434343431373934643434343636613464343436663335356136643439333435393534346136623539353436343662346436613439333135613661366336383466353434323638346533323465366434643661353236643561353436343664346537613431373934643737336433643a3330343430323230353865326538346462363664663931366235616666346566353432626663366362396532666134343534363936353639613363333562643265373533313437323032323034303562376538653439613866633565363930336231393139613763316566336536353231323738643532306330343261376338313837636233386266626233</ConfirmationId>
+         <RegistrationStatus>-12345678</RegistrationStatus>
+         <RegistrationDate>1752-01-01 05:00:00</RegistrationDate>
+         <AccountRegistrationStatus>-1000</AccountRegistrationStatus>
+         <AccountRegistrationDate>2012-10-29 12:00:00</AccountRegistrationDate>
+      </EncKeyDateItem>
+      <EncKeyDateItem id="4" dyn_lists="">
+         <KeyValue>K/IFtxVqo76uUED6hZLO6btGqbQlxH3pkiPbaKmub41aOg==</KeyValue>
+         <KeyDate>2014-10-26 18:30:41</KeyDate>
+         <ProductId>2342-22119-16718</ProductId>
+         <ActivationStatus>-2</ActivationStatus>
+         <ConfirmationDate>1752-01-01 05:00:00</ConfirmationDate>
+         <ConfirmationId></ConfirmationId>
+         <RegistrationStatus>-12345678</RegistrationStatus>
+         <RegistrationDate>1752-01-01 05:00:00</RegistrationDate>
+         <AccountRegistrationStatus>-12345678</AccountRegistrationStatus>
+         <AccountRegistrationDate>1752-01-01 05:00:00</AccountRegistrationDate>
+      </EncKeyDateItem>
+   </EncKeyDates>
+   <ActiveModes dyn_lists="LicModeItem 5">
+      <LicModeItem id="4" dyn_lists="">
+         <ProductType>1</ProductType>
+         <LicenseMode>1</LicenseMode>
+      </LicModeItem>
+   </ActiveModes>
+</Licenses>
